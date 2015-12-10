@@ -1,0 +1,24 @@
+{
+  "name": "MSSQL_Reports",
+  "version": "1.0.0",
+  "description": "Creating dynamic reports based on MSSQL Server data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilianMaD/MSSQL_Reports.git"
+  },
+  "keywords": [
+    "MSSQL",
+    "Server",
+    "Reports"
+  ],
+  "author": "ilianMaD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilianMaD/MSSQL_Reports/issues"
+  },
+  "homepage": "https://github.com/ilianMaD/MSSQL_Reports"
+}
